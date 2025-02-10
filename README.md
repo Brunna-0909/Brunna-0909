@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AF7&background=64646400&width=435&lines=Bem+vindo++!!!+%3A)+)](https://git.io/typing-svg)
+
 <h2 align="left">Oii!😎<br>Aqui é a Brunna Souza Martins (●'◡'●)<br>Aprendendo e vivendo ^_^</h2>
 
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunna-0909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="159" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunna-0909&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="143" alt="stats graph"  />
 </div>
 
 ###
@@ -22,39 +23,7 @@
 ###
 
 <br clear="both">
-name: Generate snake animation
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://raw.githubusercontent.com/Brunna-0909/Brunna-0909/output/snake.svg" alt="Snake animation" />
 
 ###
