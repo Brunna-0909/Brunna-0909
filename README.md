@@ -1,30 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2418F7&width=435&lines=Bem+vindo+!!!!++(%E2%97%8F'%E2%97%A1'%E2%97%8F))](https://git.io/typing-svg)
-<h1 align="left">Hello galera!!! (⌐■_■)<br>Meu nome é Brunna 😎♊☀</h1>
+# 💫 About Me:
+Hello galera!!!(●'◡'●)<br>Meu nome é Brunna (⌐■_■)<br>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/brunnasouzamartins/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram%20Pessoal&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brunnasouzamartins/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Brunna-0909&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Brunna-0909&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunna-0909&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-<img align="right" height="142" src="https://media.tenor.com/4erdKuTsKU8AAAAM/cat-bubble.gif"  />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Brunna-0909&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Brunna-0909&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunna-0909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="118" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Brunna-0909&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Brunna-0909/Brunna-0909/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
