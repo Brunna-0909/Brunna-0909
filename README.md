@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AF7&background=64646400&width=435&lines=Bem+vindo++!!!+%3A)+)](https://git.io/typing-svg)
-
 <h2 align="left">Oii!😎<br>Aqui é a Brunna Souza Martins (●'◡'●)<br>Aprendendo e vivendo ^_^</h2>
 
 ###
