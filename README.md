@@ -20,3 +20,6 @@ Hello galera!!!(●'◡'●)<br>Meu nome é Brunna (⌐■_■)<br>
 [![](https://visitcount.itsvg.in/api?id=Brunna-0909&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Brunna-0909/Brunna-0909/output/snake.svg" alt="Snake animation" />
+
+###
