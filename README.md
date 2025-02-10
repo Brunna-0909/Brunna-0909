@@ -22,7 +22,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Brunna-0909/Brunna-0909/output/snake.svg" alt="Snake animation" />
 
 ###
