@@ -2,9 +2,7 @@
 # 💫 About Me:
 Hello galera!!!(●'◡'●)<br>Meu nome é Brunna (⌐■_■)<br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brunnasouzamartins/) 
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Brunna-0909&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Brunna-0909&theme=ambient_gradient&hide_border=false)<br/>
